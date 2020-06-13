@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    background: linear-gradient(to right, #e43933, #1a7cec)
+}
+.container{
+    align-items: center;
+    padding-top: 55px;
+    
+}
+#h1{
+    text-align:center;
+}
+#demo{
+    font-size: 25px;
+    font-style: italic;
+    border-style: double;
+    border-radius: 15px;
+}
+.navbar{
+    background-color: rgb(17, 17, 219);
+    height: max-content;
+    margin-bottom: 105px;
+    padding-bottom: 105px;
+    align-items: center;
+    
+    }

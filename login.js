@@ -9,7 +9,7 @@ function validate(callback){
    
 let username=document.getElementById("username").value;
 let password=document.getElementById("password").value;
-    if(username=="admin"&&password=="1234"){
+    if(username=="admin"&&password=="12345"){
      // alert("success");
      callback();
         return true;
